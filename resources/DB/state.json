@@ -1,0 +1,46 @@
+{    
+    "stateData":[
+        {
+            "stateNumber": 13,
+            "stateName": "下書き"
+        }
+        ,
+        {
+            "stateNumber": 3,
+            "stateName": "提案中"
+        },
+        {
+            "stateNumber": 1,
+            "stateName": "依頼前"
+        },
+        {
+            "stateNumber": 2,
+            "stateName": "依頼中"
+        },
+        {
+            "stateNumber": 1,
+            "stateName": "開始前"
+        },
+        {
+            "stateNumber": 5,
+            "stateName": "作業中"
+        },
+        {
+            "stateNumber": 1,
+            "stateName": "提出前"
+        },
+        {
+            "stateNumber": 2,
+            "stateName": "修正中"
+        },
+        {
+            "stateNumber": 1,
+            "stateName": "完了"
+        },
+        {
+            "stateNumber": 1,
+            "stateName": "キャンセル"
+        }
+    ]
+    
+  }

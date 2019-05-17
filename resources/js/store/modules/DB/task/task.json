@@ -1,0 +1,96 @@
+{    
+    "status":[
+        {
+            "number": 10,
+            "name": "下書き"
+        },
+        {
+            "number": 3,
+            "name": "提案中"
+        },
+        {
+            "number": 1,
+            "name": "依頼前"
+        },
+        {
+            "number": 2,
+            "name": "依頼中"
+        },
+        {
+            "number": 1,
+            "name": "開始前"
+        },
+        {
+            "number": 5,
+            "name": "作業中"
+        },
+        {
+            "number": 1,
+            "name": "提出前"
+        },
+        {
+            "number": 2,
+            "name": "修正中"
+        },
+        {
+            "number": 1,
+            "name": "完了"
+        },
+        {
+            "number": 1,
+            "name": "キャンセル"
+        }
+    ],
+    "task":[
+        {
+            "taskId": 1,
+            "task": "タスク出し",
+            "project": "ios化プロジェクト",
+            "partner": "永瀬達也",
+            "deadlineDate": "2019年12月1日11時",
+            "status": "修正中",
+            "price": "30,000"
+        },
+        {
+            "taskId": 2,
+            "task": "ワイヤー作成",
+            "project": "ios化プロジェクト",
+            "partner": "テスト太郎",
+            "deadlineDate": "2019年12月1日11時",
+            "status": "修正中",
+            "price": "10,000"
+        },
+        {
+            "task": "1000文字/記事",
+            "project": "自社メディアライティング",
+            "partner": "山田太郎",
+            "deadlineDate": "2019年12月1日11時",
+            "status": "依頼中",
+            "price": "130,000"
+        },
+        {
+            "task": "コーディング",
+            "project": "自社メディア",
+            "partner": "永瀬達也",
+            "deadlineDate": "2019年12月1日11時",
+            "status": "作業中",
+            "price": "80,000"
+        },
+        {
+            "task": "デザイン設計",
+            "project": "自社メディア",
+            "partner": "永瀬達也",
+            "deadlineDate": "2019年12月1日11時",
+            "status": "修正中",
+            "price": "30,000"
+        },
+        {
+            "task": "SPA化",
+            "project": "Vue使用",
+            "partner": "永瀬達也",
+            "deadlineDate": "2019年12月1日11時",
+            "status": "依頼中",
+            "price": "800,000"
+        }
+    ]
+}
